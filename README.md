@@ -63,4 +63,4 @@ new Diffusion().end(this, 1f, 0, () -> {
 若长时间没用回答，可前往Telegram反馈群组：t.me/ColdrinkG
 
 # 版本
-v1.0
+v1.0.0
